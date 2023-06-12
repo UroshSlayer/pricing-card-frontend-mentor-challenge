@@ -121,3 +121,15 @@ ul {
   font-size: 0.8rem;
   opacity: 0.8;
 }
+
+}
+@media (max-wdith: 650px) {
+#bottom-left-section, #bottom-right-section, #card {
+  width: 100%;
+  height: auto;
+   }
+ }
+
+#bottom-left-section. #bottom-right-section {
+  width: 50%;
+}
